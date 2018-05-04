@@ -4,4 +4,4 @@ The topics originate from typical tasks in QGIS that I find interesting or maybe
 
 Some of the instructions may be in Finnish... if you are a native Finnish speaker, please help yourself in correcting my text!).
 
-- [Poligonin "tyhjä" piiri uusiksi poligoniksi](qgis_editoi_piiri_2.8_vs_3.0.md)
+- [Poligonin "tyhjä" piiri uusiksi poligoniksi](qgis_editoi_piiri_2.8_vs_3.0/qgis_editoi_piiri_2.8_vs_3.0.md)
