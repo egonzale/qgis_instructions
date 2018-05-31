@@ -32,13 +32,21 @@ A new shapefile is created with the geocoded address (note that unrecognize addr
 specified in the dialog box). This is the result when using the OpenStreetmap/Nominatim geocoding service. Note that
 you can use Google too but you will need to get an API key (see mmqgis plugin's pages for more info). Our result shapefile looks like this:
 
-<table style="width:100%">
+<table style="width:60%">
 <tr>
-<td>All addresses</td>
-<td>Zoom to Paikkatietokeskus</td>
+  <td> <img src="images/geocoding_result.png"/> </td>
 </tr>
+</table>
+
+Note that one of the addresses contained only the name of a well known place and the country:
+````
+  Paikkatietokeskus,,Finland
+````
+... yet the geocoding worked normally:
+
+
+<table style="width:60%">
 <tr>
-    <td> <img src="images/geocoding_result.png"/> </td>
-    <td> <img src="images/geocoding_result_zoomed.png"/> </td>
+  <td> <img src="images/geocoding_result_zoomed.png"/> </td>
 </tr>
 </table>
