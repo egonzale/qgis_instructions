@@ -6,7 +6,7 @@ Load and activate the MMQGIS first. Then open it from the MMQGIS menu in QGIS:
 
 <img src="images/mmqgis_geocode.png" width="40%"/>
 
-The plugin requires a CSV file with the addresses in a specific format. For details, see the plugin documentation in the [plugin page](http://michaelminn.com/linux/mmqgis/) (or guess the format from the dialog window). An example CSV file:
+The plugin requires a CSV file with the addresses in a specific format. For details, see the plugin documentation in the [plugin page](http://michaelminn.com/linux/mmqgis/) (or guess the format from the dialog window). Make sure that your text file is in UTF-8 encoding format (use for example Notepad++ editor to make sure that that format is used). An example CSV file:
 
 <img src="images/addresses.png" width="40%"/>
 
