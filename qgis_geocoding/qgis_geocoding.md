@@ -28,6 +28,8 @@ Note that one of the addresses contained only the name of a well known place and
 
 <img src="images/geocoding_result_zoomed.png" width="60%"/>
 
+Example addresses and results [here](./).
+
 ## Other test to be done
 * [MMQGIS](http://michaelminn.com/linux/mmqgis/) using Google API
 * Gispo's [Digitransint routing](https://github.com/GispoCoding/QGISDigitransitGeocoding) (Finland only)
