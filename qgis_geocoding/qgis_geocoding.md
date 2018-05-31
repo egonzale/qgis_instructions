@@ -6,7 +6,7 @@ Load and activate the MMQGIS first. Then open it from the MMQGIS menu in QGIS:
 
 <img src="images/mmqgis_geocode.png" width="40%"/>
 
-The plugin requires a CSV file with the addresses in a specific format. For details, see the plugin documentation in the[plugin page](http://michaelminn.com/linux/mmqgis/) (or guess the format from the dialog window). An example CSV file:
+The plugin requires a CSV file with the addresses in a specific format. For details, see the plugin documentation in the [plugin page](http://michaelminn.com/linux/mmqgis/) (or guess the format from the dialog window). An example CSV file:
 
 <img src="images/addresses.png" width="40%"/>
 
@@ -24,6 +24,10 @@ Note that one of the addresses contained only the name of a well known place and
 ````
   Paikkatietokeskus,,Finland
 ````
-... yet the geocoding worked normally:
+... yet the geocoding worked as expected:
 
 <img src="images/geocoding_result_zoomed.png" width="60%"/>
+
+## Other test to be done
+* [MMQGIS](http://michaelminn.com/linux/mmqgis/) using Google API
+* Gispo's [Digitransint routing](https://github.com/GispoCoding/QGISDigitransitGeocoding) (Finland only)
